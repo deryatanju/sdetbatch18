@@ -6,6 +6,7 @@ public class E2PrintStatement {
     //this convention in java is called camel case
     public static void main(String[] args) {
         System.out.println("Asghar");
+        System.out.println("Asgharrrrrrrr");
     }
 
 
